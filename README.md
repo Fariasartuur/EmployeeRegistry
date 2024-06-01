@@ -17,4 +17,4 @@ This is a simple Java application for managing employee registrations. Users can
 Ensure that dependencies like Apache POI are included when cloning the entire repository.
 
 ## Author:
-[Artur Farias Salomãp]
+Artur Farias Salomão
